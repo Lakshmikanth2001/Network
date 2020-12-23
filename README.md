@@ -1,2 +1,2 @@
 # Network
-Created with CodeSandbox
+Web Appilication for creating platform collage event club activities etc
